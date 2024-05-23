@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "EVCXR",
+        "inplace",
+        "iplot",
+        "ipynb",
+        "nbconvert",
         "plotly"
     ]
 }
