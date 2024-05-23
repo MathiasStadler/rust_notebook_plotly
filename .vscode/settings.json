@@ -5,6 +5,7 @@
         "iplot",
         "ipynb",
         "nbconvert",
-        "plotly"
+        "plotly",
+        "trapapa"
     ]
 }
