@@ -1,11 +1,15 @@
 {
     "cSpell.words": [
         "EVCXR",
+        "includegraphics",
         "inplace",
         "iplot",
         "ipynb",
         "nbconvert",
+        "pandoc",
         "plotly",
-        "trapapa"
+        "pyppeteer",
+        "trapapa",
+        "webpdf"
     ]
 }
